@@ -8,3 +8,4 @@ Preparing a new release
 Adding something new here.
 
 And triggering a conflict by modifying exactly the same line in the same file.
+Fixing 0.3 and preparing 0.3.1.
