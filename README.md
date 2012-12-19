@@ -6,3 +6,5 @@ Preparing a new release
   git flow release publish 0.1
 
 Adding something new here.
+
+And triggering a conflict by modifying exactly the same line in the same file.
